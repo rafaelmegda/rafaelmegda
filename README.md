@@ -1,6 +1,6 @@
-### Sou o Rafa, apaixado por codar e transformar a realidade com cõdigo!
+## Sou o Rafa, apaixado por codar e transformar a realidade com código!
 
-## Produzo conteúdo com insight de programação e lifestyle. Siga nas redes sociais
+### Produzo conteúdo com insight de programação e lifestyle. Siga nas redes sociais
 
 ##
 
