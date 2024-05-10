@@ -1,7 +1,9 @@
-## Sou o Rafa, apaixado por codar e transformar a realidade com código!
-
-### Produzo conteúdo com insight de programação e lifestyle. Siga nas redes sociais
-
+## Oii eu sou o Rafa, criador de conteúdo de programação e tecnologia!
+Produzo a Newsletter no Linkedin Code & Coffee [Assinar Agora](https://www.linkedin.com/newsletters/7057736334987141121/)
+<!---  
+modelo: https://github.com/rafaballerini
+doc: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
+---->
 ##
 
 - 🔭 Dedicado ao desenvolvimento Backend
@@ -24,11 +26,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
-  
- ##
+
 
  <div>
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+   
+   ## Repos Destaques
+   
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmegda&repo=Game-Rogue-Like)](https://github.com/rafaelmegda/Game-Rogue-Like)
  </div>
   
  <div> 
