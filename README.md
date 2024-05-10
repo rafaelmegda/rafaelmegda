@@ -1,12 +1,12 @@
-### Eae, Blz? Sou o Rafa, saiba um pouco mais sobre mim e meus códigos. Valeeuu!
+### Sou o Rafa, apaixado por codar e transformar a realidade com cõdigo!
+
+## Produzo conteúdo com insight de programação e lifestyle. Siga nas redes sociais
 
 ##
 
-- 🔭 Atualmente estou focado em BackEnd, APIs e Cloud
-- 🌱 Estudando Java, SpringBoot e AWS
-- 🤔  Logo vem meu Blog com os conteúdos que estudo
-- 😄 Siga nas redes sociais para trocarmos umas ideias
-- ⚡  Estou procurando um projeto OpenSource para contribuir
+- 🔭 Dedicado ao desenvolvimento Backend
+- 🌱 Java, Python, CloudAWS e .Net
+- 🤔 Desenvolvendo o lado frontend com HTML, CSS, Javascript, Angular
 
 <div>
   <a href="https://github.com/rafaelmegda">
