@@ -10,6 +10,8 @@ doc: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#de
 - 🌱 Java, Python, CloudAWS e .Net
 - 🤔 Desenvolvendo o lado frontend com HTML, CSS, Javascript, Angular
 
+  ### Conheça meus Gist [Github Gist](https://gist.github.com/rafaelmegda)
+
 <div>
   <a href="https://github.com/rafaelmegda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmegda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -46,5 +48,11 @@ doc: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#de
   <a href="https://www.linkedin.com/in/rafaelmegdaisidoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaelmegda/rafaelmegda/blob/output/github-contribution-grid-snake.svg)
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
+  <img  alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
+</picture>
  
 </div>
