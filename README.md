@@ -1,15 +1,28 @@
-## Oii eu sou o Rafa, Engenheiro de Software e criador de conteúdo de programação e tecnologia!
-
-### 🔗 Se inscreva na minha Newsletter no Linkedin [Assinar Code & Coffee](https://www.linkedin.com/newsletters/7057736334987141121/)
-
-### - 🔭 Conheça meus Gist [Github Gist](https://gist.github.com/rafaelmegda)
 <!---  
 modelo: https://github.com/rafaballerini
 doc: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
 ---->
-##
+## Oii eu sou o Rafa, Engenheiro de Software e criador de conteúdo de programação e tecnologia!
+
+### 🔗 Se inscreva na minha Newsletter no Linkedin [Assinar Code & Coffee](https://www.linkedin.com/newsletters/7057736334987141121/)
+
+### 🔭 Conheça meus Gist [Github Gist](https://gist.github.com/rafaelmegda)
 
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Csharp" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  
+  
+  <img align="center" alt="AWS" height="70" width="70" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />
+  <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TypeScript" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</div>
+
+</br>
 
 <div>
   <a href="https://github.com/rafaelmegda">
@@ -17,16 +30,7 @@ doc: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#de
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmegda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="AWS" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</div>
+
 
 
  <div>
