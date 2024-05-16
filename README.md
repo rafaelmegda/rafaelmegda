@@ -1,16 +1,15 @@
-## Oii eu sou o Rafa, criador de conteúdo de programação e tecnologia!
-Produzo a Newsletter no Linkedin Code & Coffee [Assinar Agora](https://www.linkedin.com/newsletters/7057736334987141121/)
+## Oii eu sou o Rafa, Engenheiro de Software e criador de conteúdo de programação e tecnologia!
+
+### 🔗 Se inscreva na minha Newsletter no Linkedin [Assinar Code & Coffee](https://www.linkedin.com/newsletters/7057736334987141121/)
+
+### - 🔭 Conheça meus Gist [Github Gist](https://gist.github.com/rafaelmegda)
 <!---  
 modelo: https://github.com/rafaballerini
 doc: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
 ---->
 ##
 
-- 🔭 Dedicado ao desenvolvimento Backend
-- 🌱 Java, Python, CloudAWS e .Net
-- 🤔 Desenvolvendo o lado frontend com HTML, CSS, Javascript, Angular
 
-  ### Conheça meus Gist [Github Gist](https://gist.github.com/rafaelmegda)
 
 <div>
   <a href="https://github.com/rafaelmegda">
