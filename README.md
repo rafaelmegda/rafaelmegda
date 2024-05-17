@@ -23,40 +23,38 @@ doc: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#de
 
 </br>
 
-<a href="https://instagram.com/megdarafael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a> 
-  <a href = "mailto:rafaelmisidoro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaelmegdaisidoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<a href="https://instagram.com/megdarafael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a> 
+<a href = "mailto:rafaelmisidoro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaelmegdaisidoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<!-- 
 <div>
   <a href="https://github.com/rafaelmegda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmegda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmegda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-
-
- <div>
-   
-   ## Repos Destaques
-   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmegda&repo=Game-Rogue-Like)](https://github.com/rafaelmegda/Game-Rogue-Like)
- </div>
+-->
+<div>
   
- <div> 
+  ## Repos Destaques 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmegda&repo=Game-Rogue-Like)](https://github.com/rafaelmegda/Game-Rogue-Like)
+</div>
+  
+
   <!--- 
   <a href="https://www.youtube.com/channel/colocarCanal" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"      target="_blank"></a> 
   <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"                target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"                      target="_blank"></a> 
 ---->
-  
- 
-  ![Snake animation](https://github.com/rafaelmegda/rafaelmegda/blob/output/github-contribution-grid-snake.svg)
 
+<!-- Cobrinha
+![Snake animation](https://github.com/rafaelmegda/rafaelmegda/blob/output/github-contribution-grid-snake.svg)
+<div>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-  <img  alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
-</picture>
- 
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
+    <img  alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
+  </picture> 
 </div>
+-->
