@@ -32,12 +32,11 @@ Bem-vindo ao meu perfil no GitHub! Sou programador e engenheiro de software apai
 
 ---
 
-## 📝 Blog & Artigos:
+## 📝 Newsletter:
 
-Eu também gosto de escrever artigos sobre programação e tecnologia. Aqui estão alguns dos mais recentes:
+Eu também gosto de escrever artigos sobre programação e tecnologia. Se inscreva para receber conteúdos novos:
 
-- [Como criar um portfólio no GitHub Pages](https://linkedin.com/in/rafaelmegda)
-- [Automatizando Pull Requests com GitHub Actions](https://github.com/rafaelmegda)
+- [Assinar Newsletter](https://www.linkedin.com/newsletters/7057736334987141121/)
 
 ---
 
