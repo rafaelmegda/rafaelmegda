@@ -1,30 +1,50 @@
-## Oii eu sou o Rafa, Engenheiro de Software e criador de conteúdo de programação e tecnologia!
+# Olá, eu sou Rafael Megda! 👋
 
-### 💻 Conheça meus trabalhos e redes sociais: [rafaelmegda.github.io](https://rafaelmegda.github.io/)
-### 🔗 Newsletter sobre programação [Assinar Newsletter](https://www.linkedin.com/newsletters/7057736334987141121/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rafaelmegda)](https://github.com/rafaelmegda)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmegda)](https://www.linkedin.com/in/rafaelmegda)
 
-### 🔭 Conheça meus Gist [Github Gist](https://gist.github.com/rafaelmegda)
+Bem-vindo ao meu perfil no GitHub! Sou programador e engenheiro de software apaixonado por aprender e compartilhar conhecimento. No meu repositório você encontrará projetos que envolvem **desenvolvimento web**, **blockchain**, e muito mais.
 
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="AWS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>          
-  <img align="center" alt="Csharp" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
-  <img align="center" alt="Js" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-</div>
+## 🚀 Minhas Skills:
 
-</br>
-<a href="https://instagram.com/megdarafael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a> 
-<a href = "mailto:rafaelmisidoro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafaelmegdaisidoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 💻 **Linguagens**: 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 
+- 🔧 **Ferramentas e Frameworks**:
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-<div>
-  
-  ## Repos Destaques 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmegda&repo=Game-Rogue-Like)](https://github.com/rafaelmegda/Game-Rogue-Like)
-</div>
+- 📊 **Banco de Dados**:
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
+---
+
+## 📌 Projetos Recentes:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmegda&repo=Game-Rogue-Like)](https://github.com/rafaelmegda/Game-Rogue-Like)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmegda&repo=rafaelmegda.github.io)](https://github.com/rafaelmegda/rafaelmegda.github.io)
+
+---
+
+## 📝 Blog & Artigos:
+
+Eu também gosto de escrever artigos sobre programação e tecnologia. Aqui estão alguns dos mais recentes:
+
+- [Como criar um portfólio no GitHub Pages](https://linkedin.com/in/rafaelmegda)
+- [Automatizando Pull Requests com GitHub Actions](https://github.com/rafaelmegda)
+
+---
+
+## 🌐 Como me encontrar:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmegda/)](https://www.linkedin.com/in/rafaelmegda/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelmegda@gmail.com)](mailto:rafaelmegda@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/megdarafael)](https://www.instagram.com/megdarafael)
+
+Obrigado pela visita! Sinta-se à vontade para explorar meus projetos e me chamar para colaborar! 😄
