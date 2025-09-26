@@ -1,49 +1,41 @@
-# Olá, eu sou Rafael Megda! 👋
+# Olá, eu sou Rafael Megda 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rafaelmegda)](https://github.com/rafaelmegda)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmegda)](https://www.linkedin.com/in/rafaelmegda)
+**Software Engineer | Backend & Cloud**  
+I build resilient, scalable systems. Based in São Paulo, Brazil.
 
-Bem-vindo ao meu perfil no GitHub! Sou programador e engenheiro de software apaixonado por aprender e compartilhar conhecimento. No meu repositório você encontrará projetos que envolvem **desenvolvimento web**, **blockchain**, e muito mais.
+---
+
+## TL;DR
+Arquitetura de microsserviços, desenvolvimento backend (Java / C# / Python) e cloud (AWS). Escrevo sobre carreira, engenharia de software e arquitetura na Code & Coffee
+
+- [Code & Coffee Newsletter](https://www.linkedin.com/newsletters/7057736334987141121/)
+- [Code & Coffee Tech](https://medium.com/@rafaelmisidoro)
+
+---
+
+## Destaques / Estudos de caso
+- **Projeto A — Analisador Sintático Educacional** — parser educacional + artigo (paper) com demo e código.  
+- **Projeto B — [Game-Rogue-Like]** — full-stack, demo online (link).  
+- **Portfolio (Pages)** — landing com 3 estudos de caso e contato: `rafaelmegda.github.io`.
+
+(links rápidos: [LinkedIn](sua-url) • [Portfolio](https://rafaelmegda.github.io) • rafaelmisidoro@gmail.com)
 
 ---
 
 ## 🚀 Minhas Skills:
-
-- 💻 **Linguagens**: 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
-
-- 🔧 **Ferramentas e Frameworks**:
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
-- 📊 **Banco de Dados**:
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+**Languages:** Java, Kotlin, C#, Python, JavaScript  
+**Cloud/Infra:** AWS, Docker, GitHub Actions  
+**Data:** PostgreSQL, MySQL, Kafka  
+**Tools:** Git, CI/CD, Testing
 
 ---
 
-## 📌 Projetos Recentes:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmegda&repo=Game-Rogue-Like)](https://github.com/rafaelmegda/Game-Rogue-Like)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmegda&repo=rafaelmegda.github.io)](https://github.com/rafaelmegda/rafaelmegda.github.io)
+## Publicações
+- *Projeto e Análise Sintática de Linguagem de Programação Educacional* — link para o paper / PDF.
 
 ---
 
-## 📝 Newsletter:
-
-Eu também gosto de escrever artigos sobre programação e tecnologia. Se inscreva para receber conteúdos novos:
-
-- [Assinar Newsletter](https://www.linkedin.com/newsletters/7057736334987141121/)
-
----
-
-## 🌐 Como me encontrar:
-
+## Quer saber mais?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmegda/)](https://www.linkedin.com/in/rafaelmegda/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelmegda@gmail.com)](mailto:rafaelmegda@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelmegda@gmail.com)](mailto:rafaelmisidoro@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/megdarafael)](https://www.instagram.com/megdarafael)
-
-Obrigado pela visita! Sinta-se à vontade para explorar meus projetos e me chamar para colaborar! 😄
