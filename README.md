@@ -1,13 +1,10 @@
 # Olá, eu sou Rafael Megda 👋
 
-----
-
 Arquitetura de microsserviços, desenvolvimento backend (Java / C# / Python) e cloud (AWS). Escrevo sobre carreira, engenharia de software e arquitetura na Code & Coffee
 
 - [Code & Coffee Newsletter](https://www.linkedin.com/newsletters/7057736334987141121/)
 - [Code & Coffee Tech](https://medium.com/@rafaelmisidoro)
 
----
 
 ## Destaques / Estudos de caso
 - **Projeto A — Analisador Sintático Educacional** — parser educacional + artigo (paper) com demo e código.  
