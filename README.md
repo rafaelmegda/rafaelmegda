@@ -13,7 +13,6 @@ Arquitetura de microsserviços, desenvolvimento backend (Java / C# / Python) e c
 
 (links rápidos: [LinkedIn](sua-url) • [Portfolio](https://rafaelmegda.github.io) • rafaelmisidoro@gmail.com)
 
----
 
 ## 🚀 Minhas Skills:
 **Languages:** Java, Kotlin, C#, Python, JavaScript  
@@ -21,12 +20,10 @@ Arquitetura de microsserviços, desenvolvimento backend (Java / C# / Python) e c
 **Data:** PostgreSQL, MySQL, Kafka  
 **Tools:** Git, CI/CD, Testing
 
----
 
 ## Publicações
 - *Projeto e Análise Sintática de Linguagem de Programação Educacional* — link para o paper / PDF.
 
----
 
 ## Quer saber mais?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmegda/)](https://www.linkedin.com/in/rafaelmegda/)
