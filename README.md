@@ -11,8 +11,6 @@ Arquitetura de microsserviços, desenvolvimento backend (Java / C# / Python) e c
 - **Projeto B — [Game-Rogue-Like]** — full-stack, demo online (link).  
 - **Portfolio (Pages)** — landing com 3 estudos de caso e contato: `rafaelmegda.github.io`.
 
-(links rápidos: [LinkedIn](sua-url) • [Portfolio](https://rafaelmegda.github.io) • rafaelmisidoro@gmail.com)
-
 
 ## 🚀 Minhas Skills:
 **Languages:** Java, Kotlin, C#, Python, JavaScript  
