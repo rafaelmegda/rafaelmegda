@@ -1,11 +1,7 @@
 # Olá, eu sou Rafael Megda 👋
 
-**Software Engineer | Backend & Cloud**  
-I build resilient, scalable systems. Based in São Paulo, Brazil.
+----
 
----
-
-## TL;DR
 Arquitetura de microsserviços, desenvolvimento backend (Java / C# / Python) e cloud (AWS). Escrevo sobre carreira, engenharia de software e arquitetura na Code & Coffee
 
 - [Code & Coffee Newsletter](https://www.linkedin.com/newsletters/7057736334987141121/)
